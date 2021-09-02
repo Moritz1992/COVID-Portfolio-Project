@@ -1,3 +1,19 @@
+/* 
+Nicholas Moritz
+09/01/2021
+
+SURVEYING Data in SQL Queries
+Importing Data using OPENROWSET
+
+Here we are looking to see what is going on with infection rates and deaths happening with COVID. Please be safe out there ladies and gentlemen!
+
+Heres a link to my tableau after going through all the data! https://public.tableau.com/app/profile/nicholas.moritz/viz/CovidDashboardPortfolio_16306018213200/Dashboard1
+
+*/
+
+
+
+
 
 select *
 From PortfolioProject..CovidVaccinations
