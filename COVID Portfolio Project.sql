@@ -9,11 +9,10 @@ Here we are looking to see what is going on with infection rates and deaths happ
 
 Heres a link to my tableau after going through all the data! https://public.tableau.com/app/profile/nicholas.moritz/viz/CovidDashboardPortfolio_16306018213200/Dashboard1
 
+Here is also the link to my source:https://ourworldindata.org/covid-deaths
+
+Thank you!
 */
-
-
-
-
 
 select *
 From PortfolioProject..CovidVaccinations
